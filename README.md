@@ -1,3 +1,3 @@
 # myblog
 
-Sitio de pruebas de Blogs validar
+Sitio de pruebas de Blogs
